@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+# data file is >100MB, too big for GitHub
+1_min_SPY_2008-2021.csv
